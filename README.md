@@ -47,7 +47,7 @@ Python 3.12+ and Django 6.x (SQLite).
 ## How to run
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/Ananth29a/pdi-quality-system.git
 cd <repo-name>
 
 python -m venv venv

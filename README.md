@@ -1,4 +1,12 @@
 # Factory PDI & Dispatch Clearance System
+**Demo video (code walkthrough and live demo):** https://youtu.be/QV_RaSfZm6Y
+
+Timestamps:
+- 0:00 Introduction
+- 0:50 README
+- 2:30 Code in models.py
+- 10:00 Live demo
+- 21:20 Tests
 
 A Django implementation of four connected features from the *Factory Operations & Quality Control System* BRD (Zapuza Technologies LLP). Together they form one flow: **gauge calibration -> inspector checklist -> supervisor review -> shipping interlock**.
 
